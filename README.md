@@ -38,6 +38,6 @@ docker-compose up --build
 If you'd like to rename the project, you can do so by renaming the following directories and files:
 
 **To rename the project**:
-Rename the folder asset-allocation to your preferred project name.
-Rename everything called asset_dashboard to your frontend name.
-Rename everything called asset_allocator to your backend name.
+- Rename the folder asset-allocation to your preferred project name.
+- Rename everything called asset_dashboard to your frontend name.
+- Rename everything called asset_allocator to your backend name.

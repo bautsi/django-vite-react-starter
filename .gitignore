@@ -1,0 +1,15 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore Docker volumes and images
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore other OS-specific or IDE-specific files
+.DS_Store
+*.log
+
+# Ignore pycache
+**/__pycache__

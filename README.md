@@ -1,5 +1,5 @@
 # Django Vite React Docker Starter
-## Asset Allocation Project Initialize
+Asset Allocation Project Initialize
 
 ## Overview
 
